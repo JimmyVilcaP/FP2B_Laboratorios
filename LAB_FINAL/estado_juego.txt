@@ -1,0 +1,5 @@
+Jugador: AKEMI
+Tamaño del TABLERO: 5
+
+Mounstruos del Nivel 1:
+SLIME SUPREMO - Salud: 50 - Ataque: 20
