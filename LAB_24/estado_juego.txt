@@ -1,0 +1,24 @@
+Reino 1: Sacro Imperio
+Reino 2: Moros
+Tamaño del mapa: 10
+
+Soldados del Reino 1:
+EspadachínTeutónico1 - Vida: 13
+Lancero2 - Vida: 8
+Arquero3 - Vida: 5
+Espadachin4 - Vida: 9
+Espadachin5 - Vida: 10
+Espadachin6 - Vida: 10
+Arquero7 - Vida: 5
+Lancero8 - Vida: 6
+Lancero9 - Vida: 6
+
+Soldados del Reino 2:
+CaballeroMoro1 - Vida: 13
+Lancero2 - Vida: 5
+Caballero3 - Vida: 12
+Espadachin4 - Vida: 8
+Lancero5 - Vida: 5
+Caballero6 - Vida: 10
+Caballero7 - Vida: 11
+Arquero8 - Vida: 3

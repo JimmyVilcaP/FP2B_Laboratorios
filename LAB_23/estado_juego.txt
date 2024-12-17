@@ -1,0 +1,16 @@
+Reino 1: Inglaterra
+Reino 2: Sacro Imperio
+Tamaño del mapa: 10
+
+Soldados del Reino 1:
+EspadachínReal1 - Vida: 12
+
+Soldados del Reino 2:
+EspadachínTeutónico1 - Vida: 13
+Lancero2 - Vida: 5
+Espadachin3 - Vida: 8
+Lancero4 - Vida: 6
+Lancero5 - Vida: 6
+Espadachin6 - Vida: 9
+Lancero7 - Vida: 6
+Espadachin8 - Vida: 10
